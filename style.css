@@ -1,0 +1,13 @@
+/**
+* Document Grid
+*
+* Create three column for icons.
+*/
+
+.grid {
+	display: grid;
+		grid-template-columns: 1fr 1fr 1fr; 
+		grid-gap: 1rem;
+
+
+}
