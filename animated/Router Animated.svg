@@ -1,0 +1,14 @@
+<svg version="1.1" id="el_H1lY5h8nQ" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 461 397" style="enable-background:new 0 0 461.8 397.9;" xml:space="preserve"><style>@-webkit-keyframes el_rkMgtchI2X_Animation{0%{opacity: 1;}50%{opacity: 0;}100%{opacity: 0;}}@keyframes el_rkMgtchI2X_Animation{0%{opacity: 1;}50%{opacity: 0;}100%{opacity: 0;}}@-webkit-keyframes el_H1XgtchUnm_Animation{0%{opacity: 1;}50%{opacity: 0;}100%{opacity: 0;}}@keyframes el_H1XgtchUnm_Animation{0%{opacity: 1;}50%{opacity: 0;}100%{opacity: 0;}}#el_H1lY5h8nQ *{-webkit-animation-duration: 3s;animation-duration: 3s;-webkit-animation-iteration-count: infinite;animation-iteration-count: infinite;-webkit-animation-play-state: running;animation-play-state: running;-webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);animation-timing-function: cubic-bezier(0, 0, 1, 1);}#el_BkxgK92UnX{fill: none;stroke: #000000;stroke-miterlimit: 10;}#el_ry-xK9hUh7{fill: none;stroke: #000000;stroke-miterlimit: 10;}#el_rkMgtchI2X{-webkit-transform: matrix(1.4256, 1.6552, 1.6552, -1.4256, 261.7243, 116.596);transform: matrix(1.4256, 1.6552, 1.6552, -1.4256, 261.7243, 116.596);overflow: visible;opacity: 1;}#el_H1lY5h8nQ:hover #el_rkMgtchI2X{-webkit-animation-name: el_rkMgtchI2X_Animation;animation-name: el_rkMgtchI2X_Animation;}#el_H1XgtchUnm{-webkit-transform: matrix(-1.4256, -1.6552, -1.6552, 1.4256, 217.4743, 113.596);transform: matrix(-1.4256, -1.6552, -1.6552, 1.4256, 217.4743, 113.596);overflow: visible;opacity: 1;}#el_H1lY5h8nQ:hover #el_H1XgtchUnm{-webkit-animation-name: el_H1XgtchUnm_Animation;animation-name: el_H1XgtchUnm_Animation;}#el_Sy4gY9hL2Q{fill: none;stroke: #000000;stroke-miterlimit: 10;}#el_rkBlF93I2m{fill: none;stroke: #000000;stroke-miterlimit: 10;}</style>
+
+<symbol id="RSS_2" viewBox="-9.8 -9.8 19.6 19.6">
+	<circle id="circle_1_" cx="-7.2" cy="-7.2" r="2.6"/>
+	<path d="M3.1-9.7h-3.5c0,2.5-1,4.8-2.8,6.5c-1.7,1.7-4,2.7-6.5,2.8v3.5C-2.7,3,3-2.7,3.1-9.7L3.1-9.7z"/>
+	<path class="st0" d="M9.8-9.7H6.4c-0.1,8.8-7.2,16-16,16v3.5C1,9.7,9.7,1,9.8-9.7L9.8-9.7z"/>
+</symbol>
+<path d="M409,300H69.2c-6.6,0-12-5.4-12-12v-75c0-6.6,5.4-12,12-12H409c6.6,0,12,5.4,12,12v75&#10;&#9;C421,294.6,415.6,300,409,300z" id="el_BkxgK92UnX"/>
+<line x1="239.1" y1="119.5" x2="239.1" y2="201" id="el_ry-xK9hUh7"/>
+<use xlink:href="#RSS_2" width="19.6" height="19.6" x="-9.8" y="-9.8" id="el_rkMgtchI2X"/>
+<use xlink:href="#RSS_2" width="19.6" height="19.6" x="-9.8" y="-9.8" id="el_H1XgtchUnm"/>
+<line x1="80" y1="250.5" x2="347" y2="250.5" id="el_Sy4gY9hL2Q"/>
+<circle cx="375.2" cy="250" r="15.2" id="el_rkBlF93I2m"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg version="1.1" id="el_H10wS28hm" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 461 397" style="enable-background:new 0 0 461.8 397.9;" xml:space="preserve"><style>@-webkit-keyframes el_SyzCvrh837_Animation{0%{opacity: 0;}50%{opacity: 1;}100%{opacity: 1;}}@keyframes el_SyzCvrh837_Animation{0%{opacity: 0;}50%{opacity: 1;}100%{opacity: 1;}}#el_H10wS28hm *{-webkit-animation-duration: 3s;animation-duration: 3s;-webkit-animation-iteration-count: infinite;animation-iteration-count: infinite;-webkit-animation-play-state: running;animation-play-state: running;-webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);animation-timing-function: cubic-bezier(0, 0, 1, 1);}#el_S1eRDH3U3m{fill: none;stroke: #000000;stroke-miterlimit: 10;}#el_S1-CDS38hm{fill: none;stroke: #000000;stroke-miterlimit: 10;}#el_S1XCPHnIhX{fill: none;stroke: #000000;stroke-miterlimit: 10;}#el_SJERPr2Lnm{fill: none;stroke: #000000;stroke-miterlimit: 10;}#el_H1S0wHhLnQ{fill: none;stroke: #000000;stroke-miterlimit: 10;}#el_B1UAvHnLhX{fill: none;stroke: #000000;stroke-miterlimit: 10;}#el_SyzCvrh837{opacity: 1;}#el_H10wS28hm:hover #el_SyzCvrh837{-webkit-animation-name: el_SyzCvrh837_Animation;animation-name: el_SyzCvrh837_Animation;}</style>
+
+<path d="M296,347.5H185.5c-6.6,0-12-5.4-12-12v-199c0-6.6,5.4-12,12-12H296c6.6,0,12,5.4,12,12v199&#10;&#9;C308,342.1,302.6,347.5,296,347.5z" id="el_S1eRDH3U3m"/>
+<path d="M292.9,342.4H188.6c-6.6,0-12-5.4-12-12V141.6c0-6.6,5.4-12,12-12h104.2c6.6,0,12,5.4,12,12v188.7&#10;&#9;C304.9,337,299.5,342.4,292.9,342.4z" id="el_S1-CDS38hm"/>
+<g id="el_SyzCvrh837">
+	<rect x="213.5" y="51.3" width="55.7" height="72.9" id="el_S1XCPHnIhX"/>
+	<rect x="223.7" y="60.1" width="9.5" height="9.5" id="el_SJERPr2Lnm"/>
+	<rect x="249.5" y="60.1" width="9.5" height="9.5" id="el_H1S0wHhLnQ"/>
+	<line x1="241.4" y1="124.2" x2="241.4" y2="51.3" id="el_B1UAvHnLhX"/>
+</g>
+</svg>

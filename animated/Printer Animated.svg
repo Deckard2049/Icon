@@ -1,0 +1,18 @@
+<svg version="1.1" id="el_Byvpsh82m" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 461 397" style="enable-background:new 0 0 461.8 397.9;" xml:space="preserve"><style>@-webkit-keyframes el_rJXDTs3L27_Animation{0%{opacity: 1;}50%{opacity: 0;}100%{opacity: 1;}}@keyframes el_rJXDTs3L27_Animation{0%{opacity: 1;}50%{opacity: 0;}100%{opacity: 1;}}#el_Byvpsh82m *{-webkit-animation-duration: 3s;animation-duration: 3s;-webkit-animation-iteration-count: infinite;animation-iteration-count: infinite;-webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);animation-timing-function: cubic-bezier(0, 0, 1, 1);}#el_H1lD6onUn7{fill: none;stroke: #000000;stroke-miterlimit: 10;}#el_By-Pas2U3Q{fill: #FFFFFF;stroke: #000000;stroke-miterlimit: 10;}#el_rJXDTs3L27{fill: #FFFFFF;stroke: #000000;stroke-miterlimit: 10;-webkit-animation-name: el_rJXDTs3L27_Animation;animation-name: el_rJXDTs3L27_Animation;opacity: 1;}#el_Bk4DponU2m{fill: none;stroke: #000000;stroke-miterlimit: 10;}#el_B1BPao3L3X{fill: none;stroke: #000000;stroke-miterlimit: 10;}#el_B1UDTinU2X{fill: none;stroke: #000000;stroke-miterlimit: 10;}#el_HJPv6i2InQ{fill: none;stroke: #000000;stroke-miterlimit: 10;}#el_HydD6s2InQ{fill: none;stroke: #000000;stroke-miterlimit: 10;}#el_S1Yvajh8hX{fill: none;stroke: #000000;stroke-miterlimit: 10;}#el_S15P6shUn7{fill: none;stroke: #000000;stroke-miterlimit: 10;}#el_SJivTs282X{fill: none;stroke: #000000;stroke-miterlimit: 10;}#el_ByhvTonU3m{fill: none;stroke: #000000;stroke-miterlimit: 10;}#el_Skawai2L27{fill: none;stroke: #000000;stroke-miterlimit: 10;}</style>
+
+<polyline points="177.8,79.1 177.8,192.2 310.3,192.2 310.3,79.1 177.8,79.1 " id="el_H1lD6onUn7"/>
+<path d="M379.4,252.5H105.5c-6.6,0-12-5.4-12-12v-92.8c0-6.6,5.4-12,12-12h273.9c6.6,0,12,5.4,12,12v92.8&#10;&#9;C391.4,247.1,386,252.5,379.4,252.5z" id="el_By-Pas2U3Q"/>
+<g id="el_S1fvTs382m">
+	<rect x="177.8" y="192.2" width="130" height="122.8" id="el_rJXDTs3L27"/>
+	<line x1="190.1" y1="208.1" x2="296.2" y2="208.1" id="el_Bk4DponU2m"/>
+	<line x1="190.1" y1="219.5" x2="296.2" y2="219.5" id="el_B1BPao3L3X"/>
+	<line x1="190.1" y1="230.9" x2="296.2" y2="230.9" id="el_B1UDTinU2X"/>
+	<line x1="190.1" y1="242.2" x2="296.2" y2="242.2" id="el_HJPv6i2InQ"/>
+	<line x1="190.1" y1="253.6" x2="296.2" y2="253.6" id="el_HydD6s2InQ"/>
+	<line x1="190.1" y1="265" x2="296.2" y2="265" id="el_S1Yvajh8hX"/>
+	<line x1="190.1" y1="276.3" x2="296.2" y2="276.3" id="el_S15P6shUn7"/>
+	<line x1="190.1" y1="287.7" x2="296.2" y2="287.7" id="el_SJivTs282X"/>
+	<line x1="190.1" y1="299.1" x2="296.2" y2="299.1" id="el_ByhvTonU3m"/>
+</g>
+<circle cx="365" cy="156.7" r="10.9" id="el_Skawai2L27"/>
+</svg>

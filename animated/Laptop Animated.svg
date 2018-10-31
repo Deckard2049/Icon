@@ -1,0 +1,10 @@
+<svg version="1.1" id="el_S1gJQ28h7" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 461 397" style="enable-background:new 0 0 461.8 397.9;" xml:space="preserve"><style>@-webkit-keyframes el_ryrlJQ2L27_Animation{0%{opacity: 1;}50%{opacity: 0;}100%{opacity: 1;}}@keyframes el_ryrlJQ2L27_Animation{0%{opacity: 1;}50%{opacity: 0;}100%{opacity: 1;}}#el_S1gJQ28h7 *{-webkit-animation-duration: 3s;animation-duration: 3s;-webkit-animation-iteration-count: infinite;animation-iteration-count: infinite;-webkit-animation-play-state: running;animation-play-state: running;-webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);animation-timing-function: cubic-bezier(0, 0, 1, 1);}#el_r1Wx1QhI2Q{fill: none;stroke: #000000;stroke-miterlimit: 10;}#el_ryflyQh83m{fill: none;stroke: #000000;stroke-miterlimit: 10;}#el_r17xym3UhX{fill: none;stroke: #000000;stroke-miterlimit: 10;}#el_rJVlk73L2X{fill: none;stroke: #000000;stroke-miterlimit: 10;}#el_ryrlJQ2L27{fill: #10B23E;stroke: #000000;stroke-miterlimit: 10;}#el_S1gJQ28h7:hover #el_ryrlJQ2L27{-webkit-animation-name: el_ryrlJQ2L27_Animation;animation-name: el_ryrlJQ2L27_Animation;}</style>
+
+<g id="el_r1xlkQn8n7">
+	<path d="M340.7,232H120.5V91c0-4.2,3.4-7.6,7.6-7.6h205c4.2,0,7.6,3.4,7.6,7.6V232z" id="el_r1Wx1QhI2Q"/>
+	<polyline points="120.8,232.6 96.5,268.5 365.7,268.5 340.7,232 &#9;" id="el_ryflyQh83m"/>
+	<polyline points="366.5,269 366.5,282.5 96.5,282.5 96.5,269 &#9;" id="el_r17xym3UhX"/>
+	<rect x="135.6" y="95.2" width="190" height="124.9" id="el_rJVlk73L2X"/>
+</g>
+<circle cx="230.6" cy="152.2" r="13.6" id="el_ryrlJQ2L27"/>
+</svg>
